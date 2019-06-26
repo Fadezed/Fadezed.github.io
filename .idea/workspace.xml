@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe38a3f4-51c6-4229-bfd8-41d523d40a69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Fadezed.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/featured-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/friends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/mathjax_support.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/short-about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/sns-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/404-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-bg-walle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-hux-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-hux-ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar-hux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog-desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog-keynote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog-md-navbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog-sidebar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home-bg-art.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home-bg-geek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home-bg-o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon_wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/forcify.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/open-source-license.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-c-u-ali-079717.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-c-u-ali-memo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-c-u-ali-team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/Architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/Lighthouse-after.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/Lighthouse-before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/PRECACHE-future-routes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/PUSH-link-rel-preload.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/after-skeleton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/before-skeleton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/eleme-at-io.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/msite-After-Optim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/msite-Before-Optim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/nextTick-&amp;-Load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-eleme-pwa/thisTick-&amp;-Load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-f-f-weibo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-kuaidi-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-kuaidi-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-metro-panorama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-metro-real.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-metro-ui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/PWAR-007.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/PWAR-014+PWA.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/flipkart-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/flipkart-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/flipkart-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/ios2-a2hs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/qcon-hybridzation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/qcon-trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/sw-lifecycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/sw-race.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-nextgen-web-pwa/sw-sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-wmu/maoyan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-wmu/question.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/post-wmu/wepiao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-alitrip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-android.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-apple-event-2015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-css.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-dreamer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-farewell-flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-halting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-infinity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-js-module.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-miui6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-nextgen-web-pwa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-rwd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-see-u-ali.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-universe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-bg-web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tag-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/animatescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/archive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/hux-blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/hux-blog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.tagcloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/snackbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/sw-registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/highlight.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/hux-blog.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/side-catalog.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/sidebar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/snackbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/fonts/huxico.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/fonts/huxico.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/fonts/huxico.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/fonts/huxico.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/hux_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/intern-alitrip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/intern-lxu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/logo-jquery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/logo-kissy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/logo-react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/logo-vue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/newmedia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/senova.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-busyweek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-hslider.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-puzzle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-truth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-uihome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-wepiao-bo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/images/work-yanshuo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/icons/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/icons/512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-565017427">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CNAME" value="2" />
+          <entry key="css" value="1" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="14" />
+          <entry key="ico" value="2" />
+          <entry key="jpg" value="44" />
+          <entry key="json" value="2" />
+          <entry key="markdown" value="9" />
+          <entry key="md" value="14" />
+          <entry key="png" value="1" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="14" />
+          <entry key="Image" value="48" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="23" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="CNAME" value="17" />
+          <entry key="html" value="36" />
+          <entry key="json" value="52" />
+          <entry key="txt" value="5" />
+          <entry key="yml" value="129" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="36" />
+          <entry key="JSON" value="52" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="YAML" value="129" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="798" column="3" selection-start-line="798" selection-start-column="3" selection-end-line="798" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/offline.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17728">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>avatar-hux.jpg</find>
+      <find>post-bg-see-u-ali</find>
+      <find>SideBar</find>
+      <find>README.md</find>
+      <find>hux</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../new/qbm_android" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="23" />
+    <option name="width" value="1627" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-07-12-upgrading-eleme-to-pwa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="hux-blog.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fadezed.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fadezed.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561533548420" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.DockerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe38a3f4-51c6-4229-bfd8-41d523d40a69" name="Default Changelist" comment="" />
+      <created>1561528969354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561528969354</updated>
+      <workItem from="1561528970750" duration="3776000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1561529172329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561529172329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3776000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="23" width="1627" height="1027" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22236261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24959914" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Alibaba Cloud Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30811402" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36732456" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30811402" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32785088" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959914" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.33880126" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32977018" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32977018" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/blog-sidebar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/contact-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-27-avoiding-success-at-all-cost.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-30-dreamer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-uncomputable-funcs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-halting-problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-06-css-complaints.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-25-you-are-slaves.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-309" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1524" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-android.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-apple-event-2015.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-digital-native.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-dreamer.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-farewell-flash.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-halting.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-unix-linux.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-web.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-see-u-ali.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-85">
+            <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-alitrip.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-miui6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-miui-ux.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-nextgen-web-pwa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-universe.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="798" column="3" selection-start-line="798" selection-start-column="3" selection-end-line="798" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17728">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
